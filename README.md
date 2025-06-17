@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm Jeevak 👋</h1>
+<h1 align="center">Hey, I'm Jeevak 👋</h1>
 <p align="center">
   🚀 Aspiring Full Stack Developer | 👨‍💻 Coding my way through web & APIs
 </p>
