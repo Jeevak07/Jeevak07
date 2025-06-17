@@ -46,7 +46,7 @@
 
 ## 📫 Connect With Me  
 
-- 📧 Email: `yourmail@gmail.com`
+- 📧 Email: `jeeva200606@gmail.com`
 
 ---
 
